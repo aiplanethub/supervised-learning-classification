@@ -1,6 +1,6 @@
 * Naive Bayes is the most straightforward and fast classification algorithm, which is suitable for a large chunk of data.
 * Naive Bayes classifier is successfully used in various applications such as spam filtering, text classification, sentiment analysis, and recommender systems.
-* It uses the Bayes theorem of probability for the prediction of the class.
+* It uses the Bayes theorem of probability to predict the class.
 
 ## Advantages and Disadvantages
 
@@ -37,9 +37,9 @@ This algorithm requires a small amount of training data to estimate the necessar
 
 **Note:**
 
-In the next video, the instructor used the spam detection example that involves some operations around text (NLP).
+In the following video, the instructor used the spam detection example that involves some operations around text (NLP).
 
-You don’t need to worry about those parts and instead just focus on the parts revolving around Naive Bayes.
+You don’t need to worry about those parts and instead focus on the parts revolving around Naive Bayes.
 
 
 
