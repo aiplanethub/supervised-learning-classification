@@ -1,14 +1,14 @@
 ## Logistic Regression
 
 * Logistic Regression is one of the basic and popular algorithms for solving binary classification problems
-* For each input, logistic regression outputs a probability that this input belongs to one of the 2 classes
+* For each input, logistic regression outputs a probability that this input belongs to one of the two classes
   * Set a probability threshold boundary that determines which class the input belongs to
 * Binary classification problems (2 classes):
   * Emails (Spam / Not Spam)
   * Credit Card Transactions (Fraudulent / Not Fraudulent)
   * Loan Default (Yes / No)
 
-Now, you may ask, why don’t we use Linear Regression? Why do we need a new algorithm?
+Now, you may ask, why don't we use Linear Regression? Why do we need a new algorithm?
 
 Well, you will find all the answers in the video below.
 
@@ -46,9 +46,9 @@ brilliantly explained about logistic regression!
     * Emails (Spam / Not Spam)
     * Credit Card Transactions (Fraudulent / Not Fraudulent)
     * Loan Default (Yes / No)
-* Let’s say a data scientist named John wants to predict whether a customer will buy insurance or not
-* Remember that linear regression is used to predict a continuous value where the output (y) may vary between +∞ (positive infinity) to -∞ (negative infinity), whereas in this case, the target variable (y) takes only two discrete values, 0 (No insurance) and 1 (Yes, got the insurance).
-* John decides to extend the concepts of linear regression to fulfill his requirement. One approach is to take the output of linear regression and map it between 0 and 1. If the resultant output is below a certain threshold (say 0.5), classify it as No (didn’t buy the insurance), whereas if the resultant output is above a certain threshold, classify it as buying the insurance (yes)
+* Let's say a data scientist named John wants to predict whether a customer will buy insurance or not
+* Remember that linear regression is used to predict a continuous value where the output (y) may vary between +∞ (positive infinity) to -∞ (negative infinity). In contrast, in this case, the target variable (y) takes only two discrete values, 0 (No insurance) and 1 (Yes, got the insurance).
+* John decides to extend the concepts of linear regression to fulfill his requirement. One approach is to take the linear regression output and map it between 0 and 1. If the resultant output is below a certain threshold (say 0.5), classify it as No (didn't buy the insurance), whereas if the resultant output is above a certain threshold, classify it as buying the insurance (yes)
 * We then plot a simple linear regression line and set the threshold as 0.5
   * Negative class (Insurance = No)– Age on the left side
   * Positive class (Insurance = Yes) – Age on the right side
