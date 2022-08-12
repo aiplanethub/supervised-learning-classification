@@ -13,15 +13,15 @@
 
 Classification tree methods (i.e., decision tree methods) are recommended when the task contains classifications or predictions of outcomes, and the goal is to generate rules that can be easily explained and translated into SQL or a natural query language.
 
-A Classification tree labels, records, and assigns variables to discrete classes. A Classification tree can also provide a measure of confidence that the classification is correct.
+A Classification tree labels, records, and assigns variables to discrete classes. A Classification tree can also provide confidence that the classification is correct.
 
 ## CART
 
-You might encounter the term ‘CART’ while building ML models. It’s actually nothing new but the same old Decision Tree.
+You might encounter the term 'CART' while building ML models. It's nothing new but the same old Decision Tree.
 
 CART = Classification and Regression Trees, an umbrella term for:
 
-**Classification Trees**: where the target variable is categorical and the tree is used to identify the "class" within which a target variable would likely fall into.
+**Classification Trees**: The target variable is categorical, and the tree is used to identify the "class" within which a target variable would likely fall.
 
 
 
@@ -31,7 +31,7 @@ CART = Classification and Regression Trees, an umbrella term for:
 
 
 
-**Regression Trees**: where the target variable is continuous and tree is used to predict it's value.
+**Regression Trees**: The target variable is continuous, and a tree is used to predict its value.
 
 
 
