@@ -104,7 +104,7 @@ So if your objective is to determine tomorrow's temperature, you should use a re
 
 Let's come to the second case, where you can see that the target variable is divided into classes. You'll be using Classification.
 
-* When the number of classes is 2, it is known as Binary Classification. E.g., will it be hot or cold tomorrow is a binary classification problem with two categories: Hot and Cold.
+* When the number of classes is 2, it is known as Binary Classification. E.g. whether it will be hot or cold tomorrow is a binary classification problem with two categories: Hot and Cold.
 * When it is more than 2, it is known as Multi-Class Classification. E.g., classifying movies as Good, Average, or Bad according to reviews.
 
 
@@ -118,12 +118,12 @@ Understanding your target variable's characteristics is essential before you beg
 
 ## What is Classification?
 
-Let’s learn with some examples:
+Let's learn with some examples:
 
 * In **Classification**, we classify the outcome
 * **Examples:**
-  * Predict whether a transaction is fraud or not fraud
-  * Predict whether to give loan or not
+  * Predict whether a transaction is fraudulent or not
+  * Predict whether to give a loan or not
   * Predict whether to give college admission or not
   * Predict the grade (Grade A, B, C, D)
   * Note: Classification can be more than two
@@ -146,7 +146,7 @@ Let’s learn with some examples:
 
 ## What is Multi-Classification?
 
-**It is as simple as dividing waste into 4 categories - plastic, glass, metal, paper.**
+**It is as simple as dividing waste into four categories - plastic, glass, metal, and paper.**
 
 
 
