@@ -1,4 +1,4 @@
-## Real - life Analogy
+## Real-life Analogy
 
 * Andrew wants to decide where to go during a one-year vacation, so he asks the people who know him best for suggestions. The ﬁrst friend he seeks out asks him about the likes and dislikes of his past travels. Based on the answers, he will give Andrew some advice.
 * This is a typical decision tree algorithm approach. Andrew's friend created rules to guide his decision about what he should recommend by using Andrew's answers.
@@ -110,7 +110,7 @@
 
 ### Boosting
 
-* Here's another question: If a data point is incorrectly predicted by the ﬁrst model and then the next (probably all models), will combining the predictions provide better results? Such situations are taken care of by boosting.
+* Here's another question: If the ﬁrst model incorrectly predicts a data point and then the next (probably all models), will combining the predictions provide better results? Such situations are taken care of by boosting.
 * Intuitively, each new model focuses its eﬀorts on the most diﬃcult observations to ﬁt till now and attempts to correct the errors of the previous model. So at the end of the process, we obtain a strong learner.
 * Boosting, like bagging, can be used for regression and classiﬁcation problems.
 * There are various types of Boosting algorithms that we'll study about soon.
