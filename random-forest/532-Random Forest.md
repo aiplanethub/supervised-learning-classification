@@ -2,7 +2,7 @@ Random forest is a flexible, easy-to-use machine learning algorithm that produce
 
 It is also one of the most used algorithms because of its simplicity and diversity (it **can be used for both classification and regression tasks**).
 
-Random forest **builds multiple decision trees and merges them together** to get a more accurate and stable prediction.
+Random forest **builds multiple decision trees and merges them** to get a more accurate and stable prediction.
 
 
 
@@ -38,7 +38,7 @@ It is an ensemble tree-based learning algorithm. The Random Forest Classifier is
 
 
 
-You’ll learn about ensemble models in detail in the next unit.
+You'll learn about ensemble models in detail in the next unit.
 
 
 
@@ -62,10 +62,10 @@ You’ll learn about ensemble models in detail in the next unit.
 
 ## Applications
 
-* The random forest algorithm is used in a lot of different fields, like banking, the stock market, medicine and e-commerce.
-* In finance, for example, it is used to detect customers more likely to repay their debt on time, or use a bank's services more frequently. In this domain it is also used to detect fraudsters out to scam the bank. In trading, the algorithm can be used to determine a stock's future behavior.
-* In the healthcare domain it is used to identify the correct combination of components in medicine and to analyze a patient’s medical history to identify diseases.
-* Random forest is used in e-commerce to determine whether a customer will actually like the product or not.
+* The random forest algorithm is used in many fields, like banking, the stock market, medicine, and e-commerce.
+* In finance, for example, it is used to detect customers more likely to repay their debt on time or use a bank's services more frequently. In this domain, it is also used to detect fraudsters out to scam the bank. In trading, the algorithm can be used to determine a stock's future behavior.
+* In the healthcare domain, it is used to identify the correct combination of components in medicine and to analyze a patient's medical history to identify diseases.
+* Random forest is used in e-commerce to determine whether a customer will like the product.
 
 ## Resources on Random Forest Classification
 
