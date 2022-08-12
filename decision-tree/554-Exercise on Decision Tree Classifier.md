@@ -1,3 +1,2 @@
-<p>Notebook with the tasks to be accomplished using Decision Tree Classifier:</p>
-
-<p><a href="https://github.com/dphi-official/Micro-Courses/blob/master/Supervised_Algorithms_Classification/Exercises/DecisionTreeClassifier_Exercise.ipynb" target="_blank">https://github.com/dphi-official/Micro-Courses/blob/master/Supervised_Algorithms_Classification/Exercises/DecisionTreeClassifier_Exercise.ipynb</a></p>
+Notebook with the tasks to be accomplished using Decision Tree Classifier:  
+https://github.com/dphi-official/Micro-Courses/blob/master/Supervised_Algorithms_Classification/Exercises/DecisionTreeClassifier_Exercise.ipynb
