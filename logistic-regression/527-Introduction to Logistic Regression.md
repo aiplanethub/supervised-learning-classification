@@ -181,13 +181,13 @@ The logistic regression model can be classiﬁed into three groups based on the 
 * **Binary Logistic Regression**
   * The target variable has two possible categories.
   * Common examples : 0 or 1, yes or no, true or false, spam or no spam, pass or fail, Transactions (Fraudulent / Not Fraudulent), Medical Condition (Diseased/ Not diseased)
-* **Multi- Class Logistic Regression**
-  * **Multinomial Logistic Regression**
+* **Multi-Class Logistic Regression**
+  1. **Multinomial Logistic Regression**
     * The target variable has three or more categories that are not in any particular order. So, there are three or more nominal categories.
     * Examples: Fruits (apple, mango, orange, and banana), profession (e.g., with ﬁve groups: surgeon, doctor, nurse, dentist, therapist)
-* **Ordinal Logistic Regression**
-  * The target variable has three or more ordinal categories. So, there is intrinsic order involved with the categories.
-  * Student performance can be categorized as poor, average, good, and excellent.
+  2. **Ordinal Logistic Regression**
+    * The target variable has three or more ordinal categories. So, there is intrinsic order involved with the categories.
+    * Student performance can be categorized as poor, average, good, and excellent.
 
 ### Notebooks for practice
 
